@@ -1,4 +1,4 @@
-![alt text](https://github.com/algerza/supermarket_recommendation_system/blob/master/cover.jpg?raw=true)
+![alt text](https://github.com/algerza/supermarket_recommendation_system/blob/main/cover.jpg?raw=true)
 
 # Supermarket E-Commerce Recommendation System
 
